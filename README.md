@@ -4,14 +4,17 @@ A Streamlit web application for predicting heart attack likelihood using machine
 
 ## Features
 - SVM & Logistic Regression models
-- Interactive web interface
+- Interactive web interface  
 - Real-time predictions
+- Performance metrics visualization
+
+## 🛠️ Technologies
+- Streamlit
+- Scikit-learn
+- Pandas
+- Matplotlib
 
 ## Run the app
-\`\`\`bash
+```bash
 pip install -r requirements.txt
 streamlit run my_app.py
-\`\`\`
-" > README.md
- 
-
