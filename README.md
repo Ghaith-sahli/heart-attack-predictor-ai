@@ -16,5 +16,4 @@ streamlit run my_app.py
 " > README.md
 
 # أضفه للرفع
-git add README.md
-git commit -m "docs: add English README"
+
